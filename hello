@@ -1,0 +1,10 @@
+# Create a new folder for your project
+mkdir AzureDevOpsDemo
+cd AzureDevOpsDemo
+
+# Create a simple .NET console app
+dotnet new console -n HelloAzureDevOps
+cd HelloAzureDevOps
+
+# Run the app locally to test
+dotnet run
